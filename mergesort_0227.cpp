@@ -37,7 +37,7 @@ void mergesort(int low, int ligh)
 {
     if (low >= high) // step 1
     {
-        return; // step 1.a
+        return; // step 1.a 
     }
 
 }

@@ -97,3 +97,11 @@ while (i <== mid) // step 4.f
     }
     cout << endl;
  }
+
+ int main()
+ { 
+    input();
+    mergersort(0, n - 1);
+    output();
+ }
+ 

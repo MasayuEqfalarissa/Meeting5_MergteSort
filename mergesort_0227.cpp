@@ -87,3 +87,13 @@ while (i <== mid) // step 4.f
  {
     arr[x] = B[x];
  }
+
+ void output()
+ {
+    cout << "\nData setelah diurutkan (merge sort): ";
+    for (int i = 0; 1< n; i++)
+    {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
+ }

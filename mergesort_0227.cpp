@@ -31,3 +31,13 @@ for (int i = 0; i < n; i++)
     cout << "array index ke- " << i << " : ";
     cin >> arr[i];
 }
+
+// create function mergesort
+void mergesort(int low, int ligh) 
+{
+    if (low >= high) // step 1
+    {
+        return; // step 1.a
+    }
+
+}

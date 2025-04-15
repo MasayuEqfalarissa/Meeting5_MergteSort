@@ -22,3 +22,6 @@ void input()
         cout << "\nMaksimal panjnag array adalah 20" ;
     }
 }
+cout << "\n--------------------------------------" << endl;
+cout << "\nInputkan isi element array" << endl;
+cout << "\n--------------------------------------" << endl;
